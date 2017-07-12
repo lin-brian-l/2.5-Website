@@ -1,0 +1,27 @@
+#contents {
+	display: inline-block;
+	position: fixed;
+	width: 12%;
+	vertical-align: top
+}
+
+#intro {
+	display: inline-block;
+	width: 80%;
+	padding-left: 12%;
+}
+
+h1, h2 {
+	margin: 0 auto;
+	padding: 0;
+}
+
+ul {
+	margin: 0 auto;
+}
+
+p {
+	margin-top: 0;
+	padding: 0;
+}
+
