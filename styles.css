@@ -11,8 +11,10 @@ body {
 	background-color: NavajoWhite;
 	display: inline-block;
 	position: fixed;
-	max-width: 12%;
-	vertical-align: top
+	max-width: 11%;
+	vertical-align: top;
+	font-size: medium;
+
 }
 
 #article {
@@ -34,6 +36,10 @@ body {
 	padding-left: 12%;
 	font-family: "Helvetica";
 	
+}
+
+.table {
+	padding-left: 5%;
 }
 
 form {
